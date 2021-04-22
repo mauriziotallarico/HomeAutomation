@@ -2,15 +2,6 @@
 Fun projects in collaboration and mentored by Victor Turcu
 
 Original suggestion follows:
-Victor Turcu <turcu.victor@gmail.com>
-	
-07:16 (15 ore fa)
-	
-a me
-   
-Traduci messaggio
-Disattiva per: inglese
-Hi Maurizio,
 
 here are, for the beginning, some info, recommendations :
 
