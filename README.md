@@ -18,19 +18,17 @@ buy few items just to start :
 
 https://www.raspberrypi.org/products/
 
-```
 wifi smart relay - sonoff - https://sonoff.tech/ For start I recommend https://sonoff.tech/product/diy-smart-switch/basicr3/ or https://sonoff.tech/product/diy-smart-switch/basicr2/ ; https://sonoff.tech/product/diy-smart-switch/minir2/ ; or any other that you want. From China aliexpress.com sonoff basic is ~5euro ... and are very reliable . I do not recommend devices over RF433MHz because does not provide feedback, are not secured, they have long range, but.... I recommend switches over WiFi.
 Temperature Humidity  sensor Xiaomi Mijia LYWSD03MMC Bluetooth. Here are other sensors, maybe you find other that you need/like https://xiaomi-mi.com/sockets-and-sensors/  for example door sensors, motion sensors, water sensor against flooding https://xiaomi-pedia.com/xiaomi-mijia-lywsd03mmc-bluetooth-4-2-househo-for-only-15-99.html From Aliexpress I bought with ~5euro/pcs ...  
 wifi uC - NodeMCU with ESP8266 uC build with module ESP-12E and  CP2102. This design does not have bugs... what is on aliexpress are replicas and have bugs...   https://www.aliexpress.com/item/1005001804808377.html?spm=a2g0s.12269583.0.0.31d87964UFHusD  
 USB to TTL module needed to programm firmware in uC ESP8266 from sonoff - I recommend CP2102 - https://www.aliexpress.com/item/1005001510943320.html?spm=a2g0o.productlist.0.0.39e06cfaklWIN0&algo_pvid=b041ebae-f690-4050-b067-98ce3c8d377b&algo_expid=b041ebae-f690-4050-b067-98ce3c8d377b-0&btsid=0bb0622e16190295823888839e7823&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_ 
 wifi camera - ESP32cam - just for fun :) you can find free sw which can be handy - https://www.aliexpress.com/item/33017905531.html?spm=a2g0s.12269583.0.0.3af356ba7LMlOz 
-```
 
 I recommend to buy on few from Italy just to have them in few days, and the rest if you need more from aliexpress.
 
 The list is long, think to what you want to do then on aliexpress.com you will find the device/module like :
 
-```
+
 actuator for turning on/off heating radiator https://www.aliexpress.com/item/1005001334390676.html?spm=a2g0s.9042311.0.0.27424c4dXQFDvN
 ultrasonic sensors for distance measurement (i used it for water level check)
 ToF sensor for motion gestures
@@ -38,14 +36,14 @@ RFID cards & modules for door access
 PM sensors for air quality
 gas sensors for air quality or protection (like smoke / fire sensors) 
 and so on ... 
-```
+
 
 https://www.aliexpress.com/item/1005002286940374.html?spm=a2g0o.productlist.0.0.726736ddJV4Ami&algo_pvid=null&algo_expid=null&btsid=0bb0623916190284872975508e54a2&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 https://www.aliexpress.com/item/32243897050.html?spm=a2g0o.productlist.0.0.726736ddJV4Ami&algo_pvid=null&algo_expid=null&btsid=0bb0623916190284872975508e54a2&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 
-```
+
   displays like OLED, LCD   https://www.aliexpress.com/item/1005001950055514.html?spm=a2g0o.productlist.0.0.19517e90Le1Dic&algo_pvid=e59d6796-7e4d-400f-b053-909103fddd02&algo_expid=e59d6796-7e4d-400f-b053-909103fddd02-0&btsid=0bb0623216190289344375974e234d&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-```
+
 
 - software for start :)
   https://www.raspberrypi.org/software/ - SO for RPI
